@@ -1,0 +1,25 @@
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de ambiente virtual
+.env
+venv/
+ENV/
+env/
+.venv/
+
+# Ignorar arquivos de modelo treinado
+*.joblib
+
+# Ignorar datasets grandes (se quiser manter só o código)
+data/*.csv
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs
+*.log
