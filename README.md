@@ -18,5 +18,19 @@ Ele gera dados simulados, treina um modelo de machine learning e realiza previs�
 
 ---
 
+## 🧠 Tecnologias Utilizadas
+- Python 3.9+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- joblib
+  
+---
 
+## 📌 Observações
+- Os dados usados são **simulados** apenas para fins de estudo.
+- O projeto pode ser adaptado para datasets reais.
+- É um exemplo de **IA aplicada** em detecção de fraude.
 
